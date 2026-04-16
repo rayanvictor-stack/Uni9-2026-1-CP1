@@ -1,0 +1,27 @@
+body {
+    font-family: Arial;
+    margin: 0;
+}
+
+header {
+    background-color: #ff914d;
+    padding: 10px;
+    color: white;
+}
+
+nav ul {
+    display: flex;
+    gap: 15px;
+    list-style: none;
+}
+
+section {
+    padding: 20px;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
